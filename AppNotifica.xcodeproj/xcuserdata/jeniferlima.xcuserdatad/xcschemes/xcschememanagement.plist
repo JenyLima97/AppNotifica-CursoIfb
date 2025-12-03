@@ -10,6 +10,7 @@
 			<integer>0</integer>
 		</dict>
 	</dict>
+<<<<<<< HEAD
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>74343F922EDDE78D00574384</key>
@@ -28,5 +29,7 @@
 			<true/>
 		</dict>
 	</dict>
+=======
+>>>>>>> Aula-3
 </dict>
 </plist>
